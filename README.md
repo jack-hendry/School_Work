@@ -1,2 +1,1 @@
-"# School_Work" 
-# School_Work
+Showing examples of my school work projects! 
